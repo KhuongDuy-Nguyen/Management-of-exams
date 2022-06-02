@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_SV" targetNamespace="http://tempuri.org/DataSet_SV.xsd" xmlns:mstns="http://tempuri.org/DataSet_SV.xsd" xmlns="http://tempuri.org/DataSet_SV.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_SV" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet_SV" msprop:Generator_DataSetName="DataSet_SV">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable_SV" msprop:Generator_RowEvHandlerName="DataTable_SVRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable_SVRowDeleted" msprop:Generator_RowDeletingName="DataTable_SVRowDeleting" msprop:Generator_RowEvArgName="DataTable_SVRowChangeEvent" msprop:Generator_TablePropName="DataTable_SV" msprop:Generator_RowChangedName="DataTable_SVRowChanged" msprop:Generator_RowChangingName="DataTable_SVRowChanging" msprop:Generator_TableClassName="DataTable_SVDataTable" msprop:Generator_RowClassName="DataTable_SVRow" msprop:Generator_TableVarName="tableDataTable_SV" msprop:Generator_UserTableName="DataTable_SV">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="masv" msprop:Generator_ColumnPropNameInRow="masv" msprop:Generator_ColumnPropNameInTable="masvColumn" msprop:Generator_ColumnVarNameInTable="columnmasv" msprop:Generator_UserColumnName="masv" type="xs:string" minOccurs="0" />
+              <xs:element name="ho" msprop:Generator_ColumnPropNameInRow="ho" msprop:Generator_ColumnPropNameInTable="hoColumn" msprop:Generator_ColumnVarNameInTable="columnho" msprop:Generator_UserColumnName="ho" type="xs:string" minOccurs="0" />
+              <xs:element name="ten" msprop:Generator_ColumnPropNameInRow="ten" msprop:Generator_ColumnPropNameInTable="tenColumn" msprop:Generator_ColumnVarNameInTable="columnten" msprop:Generator_UserColumnName="ten" type="xs:string" minOccurs="0" />
+              <xs:element name="ngaysinh" msprop:Generator_ColumnPropNameInRow="ngaysinh" msprop:Generator_ColumnPropNameInTable="ngaysinhColumn" msprop:Generator_ColumnVarNameInTable="columnngaysinh" msprop:Generator_UserColumnName="ngaysinh" type="xs:string" minOccurs="0" />
+              <xs:element name="diachi" msprop:Generator_ColumnPropNameInRow="diachi" msprop:Generator_ColumnPropNameInTable="diachiColumn" msprop:Generator_ColumnVarNameInTable="columndiachi" msprop:Generator_UserColumnName="diachi" type="xs:string" minOccurs="0" />
+              <xs:element name="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnPropNameInTable="malopColumn" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_UserColumnName="malop" type="xs:string" minOccurs="0" />
+              <xs:element name="rowguid" msprop:Generator_ColumnPropNameInRow="rowguid" msprop:Generator_ColumnPropNameInTable="rowguidColumn" msprop:Generator_ColumnVarNameInTable="columnrowguid" msprop:Generator_UserColumnName="rowguid" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable_Lop" msprop:Generator_RowEvHandlerName="DataTable_LopRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable_LopRowDeleted" msprop:Generator_RowDeletingName="DataTable_LopRowDeleting" msprop:Generator_RowEvArgName="DataTable_LopRowChangeEvent" msprop:Generator_TablePropName="DataTable_Lop" msprop:Generator_RowChangedName="DataTable_LopRowChanged" msprop:Generator_RowChangingName="DataTable_LopRowChanging" msprop:Generator_TableClassName="DataTable_LopDataTable" msprop:Generator_RowClassName="DataTable_LopRow" msprop:Generator_TableVarName="tableDataTable_Lop" msprop:Generator_UserTableName="DataTable_Lop">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnPropNameInTable="malopColumn" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_UserColumnName="malop" type="xs:string" minOccurs="0" />
+              <xs:element name="tenlop" msprop:Generator_ColumnPropNameInRow="tenlop" msprop:Generator_ColumnPropNameInTable="tenlopColumn" msprop:Generator_ColumnVarNameInTable="columntenlop" msprop:Generator_UserColumnName="tenlop" type="xs:string" minOccurs="0" />
+              <xs:element name="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnPropNameInTable="makhColumn" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_UserColumnName="makh" type="xs:string" minOccurs="0" />
+              <xs:element name="rowguid" msprop:Generator_ColumnPropNameInRow="rowguid" msprop:Generator_ColumnPropNameInTable="rowguidColumn" msprop:Generator_ColumnVarNameInTable="columnrowguid" msprop:Generator_UserColumnName="rowguid" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

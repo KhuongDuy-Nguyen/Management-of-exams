@@ -1,0 +1,150 @@
+create procedure [dbo].[choncoso]
+@macs nchar(3)
+as
+begin
+	if exists (select 1 from dbo.coso where dbo.coso.macs = @macs)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.coso nv where nv.macs = @macs)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllKhoa]
+@makh nchar(8)
+as
+begin
+	if exists (select 1 from dbo.khoa where dbo.khoa.makh = @makh)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.khoa nv where nv.makh = @makh)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllMonHoc]
+@mamh nchar(5)
+as
+begin
+	if exists (select 1 from dbo.monhoc where dbo.monhoc.mamh = @mamh)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.monhoc nv where nv.mamh = @mamh)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+
+create procedure [dbo].[GetAllSinhVien]
+@masv nchar(8)
+as
+begin
+	if exists (select 1 from dbo.sinhvien where dbo.sinhvien.masv = @masv)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.sinhvien nv where nv.masv = @masv)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllGiaoVien]
+@magv nchar(8)
+as
+begin
+	if exists (select 1 from dbo.giaovien where dbo.giaovien.magv = @magv)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.giaovien nv where nv.magv = @magv)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllGiaoVien_DangKy]
+@magv nchar(8)
+as
+begin
+	if exists (select 1 from dbo.giaovien_dangky where dbo.giaovien_dangky.magv = @magv)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.giaovien_dangky nv where nv.magv = @magv)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[LayBoDe]
+@mamh nchar(8)
+as
+begin
+	if exists (select 1 from dbo.bode where dbo.bode.mamh = @mamh)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.bode nv where nv.mamh = @mamh)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllBangDiem]
+@masv nchar(8)
+as
+begin
+	if exists (select 1 from dbo.bangdiem where dbo.bangdiem.masv = @masv)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.bangdiem nv where nv.masv = @masv)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllAccount]
+@username varchar(40)
+as
+begin
+	if exists (select 1 from dbo.account where dbo.account.username = @username)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.account nv where nv.username = @username)
+	begin 
+		return 1;
+	end
+	return 0;
+end
+
+create procedure [dbo].[GetAllLop]
+@malop nchar(8)
+as
+begin
+	if exists (select 1 from dbo.lop where dbo.lop.malop = @malop)
+	begin 
+		return 1;
+	end
+	if exists (select 1 from LINK.THI_TN.dbo.lop nv where nv.malop = @malop)
+	begin 
+		return 1;
+	end
+	return 0;
+end

@@ -1,0 +1,550 @@
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\bin\Debug\QLDT.exe.config
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\bin\Debug\QLDT.exe
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\bin\Debug\QLDT.pdb
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.exe
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\QLDT.exe.config
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\QLDT.exe
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\QLDT.pdb
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.exe
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.pdb
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\RdlCompile.cache
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\RdlCompile.compiled
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\EnvDTE.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\stdole.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.PhieuDiem.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.Thi.resources
+C:\Users\Asus\OneDrive\Máy tính\QLDT\QLDT\obj\Debug\QLDT.Diem.resources
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\QLDT.exe.config
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\QLDT.exe
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\QLDT.pdb
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\EnvDTE.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\stdole.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\Microsoft.MSXML.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.Diem.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.PhieuDiem.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.Thi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\RdlCompile.cache
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\RdlCompile.compiled
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.exe
+F:\Compressed\QLDT\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\QLDT.exe.config
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\QLDT.exe
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\QLDT.pdb
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\EnvDTE.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\stdole.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\Microsoft.MSXML.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.Diem.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.PhieuDiem.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.Thi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\RdlCompile.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\RdlCompile.compiled
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.exe
+D:\HKI_2-2020\CSDL_PT\DoAnCK\Final\QLDT\QLDT\obj\Debug\QLDT.pdb
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\QLDT.exe.config
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\QLDT.exe
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\QLDT.pdb
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\EnvDTE.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\stdole.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\Microsoft.MSXML.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.Diem.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.PhieuDiem.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.Thi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\RdlCompile.cache
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\RdlCompile.compiled
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.exe
+F:\Compressed\QLDT_2\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\QLDT.exe.config
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\QLDT.exe
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\QLDT.pdb
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\EnvDTE.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\stdole.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\Microsoft.MSXML.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.AssemblyReference.cache
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.SuggestedBindingRedirects.cache
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.Diem.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.PhieuDiem.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.Thi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.exe
+D:\BAIHOC\HKI--HKII--2020\Cơ Sở Dữ Liệu - Phân Tán\DoAnCK\Final\CSDLPT-14\Source Code\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\QLDT.exe.config
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\QLDT.exe
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\QLDT.pdb
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\EnvDTE.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\stdole.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\Microsoft.MSXML.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.AssemblyReference.cache
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.SuggestedBindingRedirects.cache
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.ChuanBiThi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.Diem.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.DiemThi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.InPhieuDiem.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.LamBaiThi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.Login.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.LichSuThi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.Menu.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.PhieuDiem.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLDeThi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLGV.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLKhoa.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLLop.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLMonHoc.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.QLSV.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.Thi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.ThongBaoThi.resources
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.exe
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\BAIHOC\HKI--HKII--2021\MauThietKe\CK\Source Code\QLDT\QLDT\obj\Debug\QLDT.Design_Pattern.Adapter_pattern.PrintSV.resources

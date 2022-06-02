@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PhieuDiem" msprop:Generator_TableClassName="PhieuDiemDataTable" msprop:Generator_TableVarName="tablePhieuDiem" msprop:Generator_TablePropName="PhieuDiem" msprop:Generator_RowDeletingName="PhieuDiemRowDeleting" msprop:Generator_RowChangingName="PhieuDiemRowChanging" msprop:Generator_RowEvHandlerName="PhieuDiemRowChangeEventHandler" msprop:Generator_RowDeletedName="PhieuDiemRowDeleted" msprop:Generator_UserTableName="PhieuDiem" msprop:Generator_RowChangedName="PhieuDiemRowChanged" msprop:Generator_RowEvArgName="PhieuDiemRowChangeEvent" msprop:Generator_RowClassName="PhieuDiemRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mamh" msprop:Generator_ColumnVarNameInTable="columnMamh" msprop:Generator_ColumnPropNameInRow="Mamh" msprop:Generator_ColumnPropNameInTable="MamhColumn" msprop:Generator_UserColumnName="Mamh" type="xs:string" minOccurs="0" />
+              <xs:element name="Masv" msprop:Generator_ColumnVarNameInTable="columnMasv" msprop:Generator_ColumnPropNameInRow="Masv" msprop:Generator_ColumnPropNameInTable="MasvColumn" msprop:Generator_UserColumnName="Masv" type="xs:string" minOccurs="0" />
+              <xs:element name="Lan" msprop:Generator_ColumnVarNameInTable="columnLan" msprop:Generator_ColumnPropNameInRow="Lan" msprop:Generator_ColumnPropNameInTable="LanColumn" msprop:Generator_UserColumnName="Lan" type="xs:short" minOccurs="0" />
+              <xs:element name="Ngaythi" msprop:Generator_ColumnVarNameInTable="columnNgaythi" msprop:Generator_ColumnPropNameInRow="Ngaythi" msprop:Generator_ColumnPropNameInTable="NgaythiColumn" msprop:Generator_UserColumnName="Ngaythi" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Diem" msprop:Generator_ColumnVarNameInTable="columnDiem" msprop:Generator_ColumnPropNameInRow="Diem" msprop:Generator_ColumnPropNameInTable="DiemColumn" msprop:Generator_UserColumnName="Diem" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
